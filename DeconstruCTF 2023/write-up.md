@@ -22,7 +22,7 @@ Thử tiếp đến bức ảnh redpill.jpg thì xuất hiện 2 file: fi
 
   <img width="366" alt="Screenshot 2023-08-09 134023" src="https://github.com/I3IN1202/CTF/assets/112995017/afea0b1d-ca9f-469f-9e16-a0414c7b743c">
 
-Mình thử sử dụng tools https://morsecode.world/international/decoder/audio-decoder-adaptive.html thì đã ra được một đoạn password có thể là dùng để mở file secret.
+Mình thử sử dụng tools https://morsecode.world/international/decoder/audio-decoder-adaptive.html để decode file morse.wav thì đã ra được một đoạn password có thể là dùng để mở file secret.
 
   <img width="501" alt="Screenshot 2023-08-09 134159" src="https://github.com/I3IN1202/CTF/assets/112995017/72d88dd7-54ba-4c23-9483-1a772143928a">
   
