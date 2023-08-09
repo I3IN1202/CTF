@@ -9,7 +9,7 @@
 file: 
   - Tổng quan về bài là: Logan gave me this image file before disappearing.. I've been breaking my head over it for long. Can you decode it? Đơn giản là có một file ảnh có dạng JDP, chúng ta thử xem sao!!!
 ## Solution
-Đầu tiên chúng ta hãy thử check file ảnh đó xem có gì không. Và mình nhận thấy đây không phải là một ảnh bình thường, vậy nên chũng ta hãy dùng một số tools như zsteg, 7z, unzip,... để mở thử xem ẩn sau bức ảnh đó là gì.
+Đầu tiên chúng ta hãy thử check file ảnh đó xem có gì không. Và mình nhận thấy đây không phải là một ảnh bình thường, vậy nên chũng ta hãy dùng một số tools như zsteg, 7z, unzip,binwalk... để mở thử xem ẩn sau bức ảnh đó là gì.
 
   <img width="370" alt="Screenshot 2023-08-09 133848" src="https://github.com/I3IN1202/CTF/assets/112995017/09586602-e29c-4461-a19a-7a4aba1de732">
 
