@@ -28,7 +28,11 @@ Mình thử sử dụng tools https://morsecode.world/international/decoder/a
   
         THE HOVERCRAFT OF MORPHUES 
 
-Nhưng thật không may mắn đó không phải là password chính xác, mình thử lên search GG thì ra đây có là tên của một con tàu của Morphues trong phim The Matrix có tên là Nebuchadnezzar. Và đó cũng chính là password để mở file secret.zip. Và khi mở ra thì lại là một file deep_secret.wav.
+Nhưng thật không may mắn đó không phải là password chính xác, mình thử lên search GG thì ra đây có là tên của một con tàu của Morphues trong phim The Matrix có tên là
+
+        Nebuchadnezzar
+
+Và đó cũng chính là password để mở file secret.zip. Và khi mở ra thì lại là một file deep_secret.wav.
 Mình có thử dùng một số tool để check và đọc file âm thanh đó nhưng không có kết quả gì. Sau một hồi mình nghĩ có thể đây lại là một file ẩn gì đó chăng và search tool deep sound was steg https://wiki.bi0s.in/steganography/deep-sound/
 
   <img width="594" alt="Screenshot 2023-08-09 130238" src="https://github.com/I3IN1202/CTF/assets/112995017/bd155178-5c1b-40e6-b85f-f242cc375c2c">
