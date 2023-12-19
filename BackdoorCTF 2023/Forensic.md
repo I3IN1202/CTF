@@ -13,7 +13,7 @@ Sau khi phân tích đề bài ta nhận thấy bài này hoàn toàn chúng ta 
 
   ![image](https://github.com/I3IN1202/CTF/assets/112995017/c0b69d38-ba54-4bb2-b68d-f9a4a0445348)
   
-  Part 1: flag{aud105
+        Part 1: flag{aud105
 
 Sau khi mình tìm ra part 1 thì mình đã tiếp tục sử dụng 1 phần mềm nữa để phân tích file .wav là DeepSound thì đã ra được part 3
 
@@ -21,7 +21,7 @@ Sau khi mình tìm ra part 1 thì mình đã tiếp tục sử dụng 1 phần m
 
 Và đó cũng là part cuối của flag vậy còn thiếu part 2 và mình vẫn chưa thể tìm ra!
 
-  PART3: 4r5n't_th3y?}
+        Part3: 4r5n't_th3y?}
 
 Sau một thời gian tìm hiểu và mình đã nhớ đến 1 tool trong bài Moonwalk trong picoCTF là SSTV (Slow-Scan-TV). Và đã tìm ra được flag 
 
